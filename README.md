@@ -1,1 +1,1 @@
-user input
+This is my first git project
